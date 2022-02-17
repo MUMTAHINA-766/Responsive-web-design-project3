@@ -2,6 +2,9 @@
 ## Product(Huawei nova 5i pro) Landing Page
 This is final project 3 of Responsive web design course.
 
+My Codepen link:
+https://codepen.io/mumtahina-766/pen/qBVpWyL?editors=1100
+
 
 ![product landing page1](https://user-images.githubusercontent.com/64628178/154402975-f251f457-a596-4cac-8013-f94bb94a0695.PNG)
 
